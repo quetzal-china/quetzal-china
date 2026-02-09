@@ -2,10 +2,6 @@
 
 ### A SOFTWARE ENGINERRING Student
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=quetzal-china&label=Profile views&color=0e75b6&style=flat" alt="quetzal-china" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quetzal-china" alt="quetzal-china" /></a> </p>
-
 - 🔭 I'm currently working on **opensource C projects**
 
 - 🌱 I'm currently learning **Python, Android and Rust**
