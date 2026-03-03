@@ -4,7 +4,7 @@
 
 <!-- 优化后的打字机效果 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World!;Working+on+OpenSource+C+Projects;Learning+Python,+Android,+Rust;Crafting+Code+with+Passion.;Hello+to+fellow+SE+students+:D;Delighted+to+Meet+You!;Let's+Connect+and+Grow;System+Online.;No+Errors+Detected;Scanning+for+SE+Lifeforms...;Connection+Established?;Turning+Coffee+into+Elegant+Logic.;Debugging+Life,+One+Line+at+a+Time.;In+Code+We+Trust,+In+Logic+We+Believe.;Building+Digital+Universes+from+Scratch.;Together+To+the+Future!;&font=Fira%20Code&center=true&width=560&height=50&duration=4000&pause=1000&color=00F7FF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+World!;Working+on+OpenSource+C+Projects;Learning+Python,+Android,+Rust;Crafting+Code+with+Passion.;Hello+to+fellow+SE+students+:D;Delighted+to+Meet+You!;Let's+Connect+and+Grow;System+Online.;No+Errors+Detected;Scanning+for+SE+Lifeforms...;Connection+Established?;Turning+Coffee+into+Elegant+Logic.;Debugging+Life,+One+Line+at+a+Time.;In+Code+We+Trust,+In+Logic+We+Believe.;Building+Digital+Universes+from+Scratch.;&font=Fira%20Code&center=true&width=560&height=50&duration=4000&pause=1000&color=00F7FF" alt="Typing SVG" />
 </p>
 
 - 🔭 I'm currently working on **opensource C projects**
