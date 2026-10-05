@@ -90,5 +90,7 @@
 <!-- 底部活动图表 -->
 <h3 align="left">🔥 My Contribution Graph</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=quetzal-china&theme=github-light" alt="Ashutosh's github activity graph" />
+  <a href="https://github.com/quetzal-china/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=quetzal-china&theme=react" alt="Ashutosh's github activity graph" />
+  </a>
 </p>
